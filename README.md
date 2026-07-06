@@ -2,7 +2,7 @@
 
 Build with the Grok Imagine Image Quality API using APIDot: cURL, Node.js, request shapes, polling, webhooks, and production notes.
 
-[Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/grok-imagine-image-quality) | [Model Page](https://apidot.ai/models/grok-imagine-image-quality) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
+[Try on APIDot](https://apidot.ai/models/grok-imagine-image-quality) | [Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/grok-imagine-image-quality) | [Pricing](https://apidot.ai/pricing) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
 
 ## What this example shows
 
